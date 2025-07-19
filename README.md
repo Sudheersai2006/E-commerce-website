@@ -50,5 +50,6 @@ JavaScript (Vanilla)
 
 📸 Preview
 
+<img width="1917" height="777" alt="Image" src="https://github.com/user-attachments/assets/3d54ebf0-6eb1-46a2-afae-a68c30e7dd7d" />
 
-Improve UI with animations and transitions.
+
